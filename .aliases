@@ -1,0 +1,34 @@
+# Importing Mathias_Bynens aliases
+source $DOTFILES_ROOT/.aliases_Mathias_Bynens
+
+# Saftey
+alias rm="rm -i"
+alias mv="mv -i"
+alias cp="cp -i"
+set -o noclobber
+
+# Chaning to specific directories
+alias db="cd $HOME/Documents/DocBase"
+alias gd="cd $HOME/Documents/DocBase/gdrive"
+
+# Checking connections
+alias pg='ping google.com'
+alias pb='ping bing.com'
+alias pr='ping 192.168.1.1'
+
+# Wrapping 
+alias irb=irb --simple-prompt
+alias mongod='mongod --dbpath /usr/local/var/mongodb'
+alias py="python"
+
+# Shorcuts for grep
+alias hg='h | grep '
+alias ag='alias | grep '
+
+# Miscellaneous
+alias m='less'
+alias du='du -ch -d 1'
+alias treeacl='tree -A -C -L 2'
+alias run='./run.sh'
+alias zshconfig="subl  ~/.zshrc"
+

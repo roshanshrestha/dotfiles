@@ -1,0 +1,456 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"subj",
+				"subject_id"
+			],
+			[
+				"in",
+				"integer"
+			],
+			[
+				"tim",
+				"timestamps"
+			],
+			[
+				"ad",
+				"admin_users"
+			],
+			[
+				"s",
+				"string"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".dotfiles.sublime-project",
+			"settings":
+			{
+				"buffer_size": 211,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"shel",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insll",
+				"Package Control: Install Package"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"read",
+				"ReadmePlease"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"orgmode",
+				"Set Syntax: orgmode"
+			],
+			[
+				"plea",
+				"ReadmePlease"
+			],
+			[
+				"key bin",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"subl",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"keybi",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"rea",
+				"ReadmePlease"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/roshanshrestha/.dotfiles/get_dotfiles_mathiasbynens",
+		"/Users/roshanshrestha/.dotfiles/.aliases",
+		"/Users/roshanshrestha/.dotfiles/.adhocs",
+		"/Users/roshanshrestha/.dotfiles/.dotfiles_mathiasbynens",
+		"/Users/roshanshrestha/.dotfiles/.exports",
+		"/Users/roshanshrestha/.dotfiles/.functions",
+		"/Users/roshanshrestha/.dotfiles/.zshrc",
+		"/Users/roshanshrestha/.dotfiles/.osx_Mathias_Bynens",
+		"/Users/roshanshrestha/.zshrc",
+		"/Users/roshanshrestha/.dotfiles/.emacs.d/.org-id-locations",
+		"/Users/roshanshrestha/.dotfiles/.emacs.d/init.el~",
+		"/Users/roshanshrestha/.oh-my-zsh/lib/aliases.zsh",
+		"/Users/roshanshrestha/.oh-my-zsh/lib/directories.zsh",
+		"/Users/roshanshrestha/.oh-my-zsh/plugins/rails/rails.plugin.zsh",
+		"/Users/roshanshrestha/.oh-my-zsh/plugins/rails4/rails4.plugin.zsh",
+		"/Users/roshanshrestha/.dotfiles.org/.aliases",
+		"/Users/roshanshrestha/.dotfiles/.aliases_Mathias_Bynens",
+		"/Users/roshanshrestha/.inputrc",
+		"/Users/roshanshrestha/.dotfiles/copyright_Mathias_Bynens.txt",
+		"/Users/roshanshrestha/.dotfiles/.aliases_mathiasbynens",
+		"/Users/roshanshrestha/.wgetrc",
+		"/Users/roshanshrestha/.dotfiles/.functions_Mathias_Bynens",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/app/models/user.rb",
+		"/usr/local/bin/emacs.sh",
+		"/Users/roshanshrestha/.functions",
+		"/Users/roshanshrestha/.rvm/scripts/rvm",
+		"/Users/roshanshrestha/dtmp/.aliases",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/test/controllers/hello_controller_test.rb",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/app/assets/stylesheets/hello.css.scss",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/app/helpers/hello_helper.rb",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/db/migrate/20141110130437_create_subjects.rb",
+		"/Users/roshanshrestha/help",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/db/migrate/20141110130452_create_sections.rb",
+		"/Users/roshanshrestha/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/db/migrate/20141110120347_alter_users.rb",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/db/migrate/20141108150019_create_users.rb",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/db/migrate/20141110130445_create_pages.rb",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/db/migrate/20141110131045_alter_subjects.rb",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/test/fixtures/sections.yml",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/app/models/section.rb",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/config/secrets.yml",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/config/routes.rb",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/config.ru",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/test/models/subject_test.rb",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/test/fixtures/subjects.yml",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/app/models/subject.rb",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/simple_cms.sublime-project",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/test/fixtures/pages.yml",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/app/models/page.rb",
+		"/Users/roshanshrestha/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/db/migrate/20141110130519_section.rb",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/db/migrate/20141110130737_subject.rb",
+		"/Users/roshanshrestha/Library/Application Support/Sublime Text 3/Packages/Transpose Word/README.md",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/test/fixtures/users.yml",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/test/models/section_test.rb",
+		"/Users/roshanshrestha/Library/Application Support/Sublime Text 3/Packages/TransposeCharacter/README.md",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/config/application.rb",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/app/views/layouts/application.html.erb",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/config/initializers/filter_parameter_logging.rb",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/app/controllers/demo_controller.rb",
+		"/Users/roshanshrestha/Desktop/Workings/sublime/sublime_ref.org",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/db/migrate/20141108145124_hello_world.rb",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/db/schema.rb",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/db/seeds.rb",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/app/controllers/hello_controller.rb",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/config/database.yml",
+		"/Users/roshanshrestha/Library/Application Support/Sublime Text 3/Packages/EasyMotion/Default (OSX).sublime-keymap",
+		"/Users/roshanshrestha/Library/Application Support/Sublime Text 3/Packages/EasyMotion/README.md",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/app/views/demo/hello",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/public/test.html",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/test/test_helper.rb",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/tmp/test.rb",
+		"/Users/roshanshrestha/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/app/views/demo/index.html.erb",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/app/views/demo/hello.html.erb",
+		"/Users/roshanshrestha/Library/Application Support/Sublime Text 3/Packages/sublemacspro/README.md",
+		"/Users/roshanshrestha/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/log/development.log",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/config/environments/test.rb",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/public/demo/test.html",
+		"/Users/roshanshrestha/Desktop/Workings/sublime/sublime_ref.txt",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/Gemfile",
+		"/Users/roshanshrestha/Library/Application Support/Sublime Text 3/Packages/User/orgmode.sublime-settings",
+		"/Users/roshanshrestha/Library/Application Support/Sublime Text 3/Packages/orgmode/messages/install.org",
+		"/Users/roshanshrestha/Projects/tests/simple_cms/config/locales/en.yml",
+		"/Users/roshanshrestha/Desktop/Workings/sublime/sublime_ref.org.txt",
+		"/Users/roshanshrestha/Desktop/test.org",
+		"/Users/roshanshrestha/Documents/DocBase/gdrive/TechnologyKB/Languages/ruby/rails_ref.txt",
+		"/Users/roshanshrestha/Projects/loonebha/config/database.yml",
+		"/Users/roshanshrestha/Projects/loonebha/config/hello.rb",
+		"/Users/roshanshrestha/.gitconfig",
+		"/Users/roshanshrestha/.bash_prompt",
+		"/Users/roshanshrestha/.gitk",
+		"/Users/roshanshrestha/.aliases",
+		"/Users/roshanshrestha/.bash_history",
+		"/Users/roshanshrestha/.zsh_history",
+		"/Users/roshanshrestha/.Rhistory"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"/Users/roshanshrestha/Documents/DocBase/gdrive/KB",
+			"TechnologyKB",
+			"#",
+			"*****",
+			"o",
+			"d",
+			"super+shift+;",
+			"next",
+			"false",
+			"body",
+			"<head>\n  <title>This is a test page</title>\n  <body>This is a test page body</body>\n",
+			"move",
+			"copy",
+			"ctrl+y",
+			"alt+w",
+			"ctrl+h",
+			"delete",
+			"meta",
+			"move",
+			"move.* word",
+			"ctrl+f",
+			"next",
+			"title",
+			"html",
+			"Cmd",
+			"[m",
+			"(B",
+			"select",
+			"se"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$KB",
+			"KB",
+			"",
+			"alt+shift+m"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".dotfiles.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 211,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								166,
+								166
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 167.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": ".dotfiles.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"sections",
+				"db/migrate/20141110130452_create_sections.rb"
+			],
+			[
+				"create",
+				"db/migrate/20141110130445_create_pages.rb"
+			],
+			[
+				"subject",
+				"db/migrate/20141110130437_create_subjects.rb"
+			],
+			[
+				"subje",
+				"db/migrate/20141110131045_alter_subject.rb"
+			],
+			[
+				"subjec",
+				"db/migrate/20141110130737_subject.rb"
+			],
+			[
+				"section",
+				"db/migrate/20141110130519_section.rb"
+			],
+			[
+				"alter",
+				"db/migrate/20141110120347_alter_users.rb"
+			],
+			[
+				"demo",
+				"app/controllers/demo_controller.rb"
+			],
+			[
+				"hello",
+				"app/controllers/hello_controller.rb"
+			],
+			[
+				"dem",
+				"app/controllers/demo_controller.rb"
+			],
+			[
+				"test",
+				"public/test.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 290.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

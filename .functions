@@ -1,0 +1,19 @@
+
+# Opens Emacs in background. With no arguments opens the current directory otherwise 
+# opens the given location
+function em() {
+	if [ $# -eq 0 ]; then
+		emacs . &;
+	else
+		emacs "$@" &;
+	fi;
+}
+
+# Opens osx dictionary with given word
+function define(){ eval open "dict://$1"; }
+
+# Create a new directory and enter it
+function mkd() { mkdir -p "$@" && eval cd "\"\$$#\""; }
+
+# Importing Mathias Bynens functions
+source $DOTFILES_ROOT/.functions_Mathias_Bynens

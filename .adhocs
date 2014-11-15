@@ -1,0 +1,10 @@
+# Aliases
+# Shortcut to open notes in Emacs
+alias gitnote='em $KB/VersionControl/git/git_ref.txt'
+alias pythonnote='em $KB/Languages/python/python_ref.txt'
+alias rubynote='em $KB/Languages/ruby/ruby_ref.txt'
+alias railsnote='em $KB/Languages/ruby/rails_ref.txt'
+alias matlabnote='em $KB/Languages/matlab/matlab_ref.txt'
+alias emacsnote='em $KB/Editors/emacs/emacs_ref.txt'
+alias shnote='em $KB/Unix/sh_ref.txt'
+alias unixnote='em $KB/Unix/unix_ref.txt'

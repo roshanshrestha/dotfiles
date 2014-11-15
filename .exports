@@ -1,0 +1,4 @@
+export M2_HOME=$HOME/apache-maven-3.1.0
+export PATH=$HOME/bin:$PATH:/opt/local/bin/:$M2_HOME/bin
+export COURSERA=$HOME/Documents/coursera
+export KB=$HOME/Documents/DocBase/gdrive/KB
