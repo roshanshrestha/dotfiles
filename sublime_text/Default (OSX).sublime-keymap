@@ -1,0 +1,69 @@
+[
+    {    
+        "keys": ["alt+ctrl+h"], 
+        "command": "delete_word", 
+        "args": { "forward": false, "sub_words": true } 
+    },
+    {   "keys": ["super+shift+o"], 
+        "command": "reindent" 
+    },
+    {   
+        "keys": ["alt+h"], 
+        "command": "expand_selection_to_paragraph"
+    },
+    {   
+        "keys": ["ctrl+c"],
+        "command": "auto_complete"
+    },
+
+// Emmet
+    {   
+        "keys": ["ctrl+j"], 
+        "args": {"action": "expand_abbreviation"}, 
+        "command": "run_emmet_action", 
+        "context": [ {"key": "emmet_action_enabled.expand_abbreviation"}]
+    }, 
+
+// EasyMotion
+    {	
+        "keys": ["alt+m", "<character>"], 
+        "command": "easy_motion",
+        "args": {"select_text": false}	
+    },
+    { 
+        "keys": ["alt+m", "enter"], 
+        "command": "easy_motion",
+        "args": {"select_text": false, "character": "enter"}
+    },
+    { 
+        "keys": ["alt+shift+m", "<character>"], 
+        "command": "easy_motion",
+        "args": {"select_text": true}
+    },
+    { 
+        "keys": ["alt+shift+m", "enter"], 
+        "command": "easy_motion",
+        "args": {"select_text": true, "character": "enter"}
+    },
+
+// SideBarEnhancements
+
+    {   
+        "keys": ["ctrl+o"], 
+        "command": "move", 
+        "args": {"by": "characters","forward": true}, 
+        "context": [ {"key": "control", "operand": "sidebar_tree"} ] 
+    },
+    { 
+        "keys": ["ctrl+f"], 
+        "command": "move", 
+        "args": {"by": "characters", "forward": false}, 
+        "context": [ {"key": "control", "operand": "sidebar_tree"} ] 
+    },
+
+// Transpose Word
+    { 
+        "keys": ["ctrl+shift+t"], 
+        "command": "transpose_word"
+    },
+]
