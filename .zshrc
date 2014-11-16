@@ -17,7 +17,7 @@ source ~/.functions
 source ~/.exports
 source ~/.adhocs
 
-# for ruby
-source ~/.rvm/scripts/rvm
-rvm use ruby-2.1.3 > /dev/null
+# Load RVM function
+[[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm" 
+
 
