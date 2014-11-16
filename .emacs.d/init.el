@@ -77,4 +77,5 @@
 ;; mouse scroll behavior
 (setq mouse-wheel-scroll-amount '(1 ((shift) . 1) ((control) . nil)))
 (setq mouse-wheel-progressive-speed nil)
-
+;; wrap line
+(add-hook 'text-mode-hook 'turn-on-visual-line-mode)
