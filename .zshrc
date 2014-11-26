@@ -10,6 +10,8 @@ DOTFILES_ROOT=$HOME/.dotfiles
 # Plugins to be loaded
 plugins=(osx ruby rails git)
 
+# Load RVM function
+[[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm" 
 
 source $ZSH/oh-my-zsh.sh
 source ~/.aliases
@@ -17,7 +19,5 @@ source ~/.functions
 source ~/.exports
 source ~/.adhocs
 
-# Load RVM function
-[[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm" 
 
 
