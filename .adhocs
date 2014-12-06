@@ -8,3 +8,8 @@ alias matlabnote='em $KB/Languages/matlab/matlab_ref.txt'
 alias emacsnote='em $KB/Editors/emacs/emacs_ref.txt'
 alias shnote='em $KB/Unix/sh_ref.txt'
 alias unixnote='em $KB/Unix/unix_ref.txt'
+alias jsnote='em $KB/Languages/js/js_ref.txt'
+
+# alias for pic taking of ruby
+alias picnoterb='~/.picMover.sh /Users/roshanshrestha/Documents/DocBase/gdrive/KB/Languages/ruby'
+alias picnotejs='~/.picMover.sh /Users/roshanshrestha/Documents/DocBase/gdrive/KB/Languages/js'
