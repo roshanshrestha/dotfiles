@@ -2,7 +2,7 @@
 ZSH=$HOME/.oh-my-zsh
 
 # ZSH Theme
-ZSH_THEME="soliah"
+ZSH_THEME="roshan"
 
 # Path to dotfiles directory
 DOTFILES_ROOT=$HOME/.dotfiles
