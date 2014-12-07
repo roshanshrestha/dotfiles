@@ -8,7 +8,7 @@ ZSH_THEME="roshan"
 DOTFILES_ROOT=$HOME/.dotfiles
 
 # Plugins to be loaded
-plugins=(osx ruby rails git)
+plugins=(osx ruby rails git tmux)
 
 # Load RVM function
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm" 
