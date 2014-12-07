@@ -24,6 +24,7 @@ alias py="python"
 # Shorcuts for grep
 alias hg='h | grep '
 alias ag='alias | grep '
+alias lg='l | grep '
 
 # Miscellaneous
 alias m='less'
@@ -32,3 +33,9 @@ alias treeacl='tree -A -C -L 2'
 alias run='./run.sh'
 alias zshconfig="subl  ~/.zshrc"
 
+# todo.txt aliases
+alias t='todo.sh'
+alias tl='todo.sh list'
+alias ta='todo.sh add'
+alias td='todo.sh do'
+alias tar='todo.sh archive'
