@@ -34,8 +34,8 @@ alias run='./run.sh'
 alias zshconfig="subl  ~/.zshrc"
 
 # todo.txt aliases
-alias t='todo.sh'
-alias tl='todo.sh list'
-alias ta='todo.sh add'
-alias td='todo.sh do'
-alias tar='todo.sh archive'
+alias td='todo.sh'
+alias tdl='todo.sh list'
+alias tda='todo.sh add'
+alias tdd='todo.sh do'
+alias tdar='todo.sh archive'
