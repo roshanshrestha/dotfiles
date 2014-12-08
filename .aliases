@@ -39,3 +39,10 @@ alias tdl='todo.sh list'
 alias tda='todo.sh add'
 alias tdd='todo.sh do'
 alias tdar='todo.sh archive'
+
+# todo_rorutine.txt aliases -d $HOME/.todo/config_routine
+alias tdr='todo.sh -d $HOME/.todo/config_routine'
+alias tdrl='todo.sh -d $HOME/.todo/config_routine list'
+alias tdra='todo.sh -d $HOME/.todo/config_routine add'
+alias tdrd='todo.sh -d $HOME/.todo/config_routine do'
+alias tdrar='todo.sh -d $HOME/.todo/config_routine archive'
