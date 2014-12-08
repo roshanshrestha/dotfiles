@@ -1,5 +1,5 @@
 
-# Opens Emacs in background. With no arguments opens the current directory otherwise 
+# Opens Emacs. With no arguments opens the current directory otherwise 
 # opens the given location
 function em() {
 	if [ $# -eq 0 ]; then
