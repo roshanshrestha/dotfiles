@@ -3,9 +3,9 @@
 # opens the given location
 function em() {
 	if [ $# -eq 0 ]; then
-		emacs . &;
+		emacs .;
 	else
-		emacs "$@" &;
+		emacs "$@";
 	fi;
 }
 
