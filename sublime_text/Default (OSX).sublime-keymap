@@ -93,5 +93,10 @@
             { "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true },
             { "key": "selector", "operator": "equal", "operand": "string", "match_all": true}
         ]
+    },
+
+// open dired mode
+    {
+        "keys": ["ctrl+x", "d"], "command": "dired"
     }
 ]
