@@ -20,6 +20,7 @@ alias pr='ping 192.168.1.1'
 alias irb=irb --simple-prompt
 alias mongod='mongod --dbpath /usr/local/var/mongodb'
 alias py="python"
+alias cat="cat -n"
 
 # Shorcuts for grep
 alias hg='h | grep '
