@@ -13,3 +13,6 @@ alias jsnote='em $KB/Languages/js/js_ref.txt'
 # alias for pic taking of ruby
 alias picnoterb='~/.picMover.sh /Users/roshanshrestha/Documents/DocBase/gdrive/KB/Languages/ruby'
 alias picnotejs='~/.picMover.sh /Users/roshanshrestha/Documents/DocBase/gdrive/KB/Languages/js'
+
+# alias for opening overapi in browser
+alias overapi="open ~/Documents/DocBase/refcards/overapi/index.html"
